@@ -100,22 +100,7 @@ cut discounts and which segments to prioritise.
 
 
 
-#PIECHART!<img width="914" height="519" alt="WK2 SUPERSTORE SALES DASHBOARD PC" src="https://github.com/user-attachments/assets/7a8d46de-cb4b-4162-a6a5-55ce9a2a1fb9" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img width="1205" height="583" alt="wk2 ALA " src="https://github.com/user-attachments/assets/1d42da64-9b4b-463c-8c32-631c4222c68b" />
+#PIECHART!<img width="1205" height="583" alt="wk2 ALA " src="https://github.com/user-attachments/assets/1d42da64-9b4b-463c-8c32-631c4222c68b" />
 
 
 
@@ -161,9 +146,22 @@ cut discounts and which segments to prioritise.
 
 
 
-<img width="1068" height="579" alt="WK2REGION PROFIT" src="https://github.com/user-attachments/assets/bcd314c2-6a74-442f-8cd9-73eeb1ea5126" />
 
-#BARCHART!
+#BARCHART!<img width="1068" height="579" alt="image" src="https://github.com/user-attachments/assets/e77dd3b1-8f41-42df-a477-dc7f90705374" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Dashboard Features
