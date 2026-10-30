@@ -21,9 +21,149 @@ cut discounts and which segments to prioritise.
 - DAX (measures and KPIs)
 - Data modelling and visualisation
 
+#DASHOARD1!<img width="1007" height="557" alt="SUPERSTORE SALES DASHBOARD ALA " src="https://github.com/user-attachments/assets/a854178a-dd1f-4b68-8c27-7cc97d394c15" />
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+#DASHBOARD2!<img width="1033" height="560" alt="ALA WK2 DASHBOARD" src="https://github.com/user-attachments/assets/c85714be-0143-48ed-b738-2984b4ec8d60" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#LINECHART!<img width="1222" height="588" alt="line chartwk2 ala superstor" src="https://github.com/user-attachments/assets/e944b1c7-535d-4041-9005-867b08491a55" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#BARCHART!<img width="1229" height="585" alt="ALA WK2 " src="https://github.com/user-attachments/assets/7d95145f-4a04-4994-9f36-def2731ac089" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#BARCHART!<img width="1198" height="588" alt="ALA WK2 CH" src="https://github.com/user-attachments/assets/c5cc8906-ce2c-4373-b7e9-383f6670e54c" />
+
+
+
+
+
+
+
+
+
+
+
+#PIECHART!<img width="914" height="519" alt="WK2 SUPERSTORE SALES DASHBOARD PC" src="https://github.com/user-attachments/assets/7a8d46de-cb4b-4162-a6a5-55ce9a2a1fb9" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1205" height="583" alt="wk2 ALA " src="https://github.com/user-attachments/assets/1d42da64-9b4b-463c-8c32-631c4222c68b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#BARCHART!<img width="1217" height="599" alt="ALA WK 2" src="https://github.com/user-attachments/assets/650293fd-82ae-47f1-92a2-7c7df56f3d7e" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#BARCHART!<img width="925" height="592" alt="WK2ALAMARGIN" src="https://github.com/user-attachments/assets/d33c7c38-3e50-4739-9e84-f6250f86d31a" />
+
+
+
+
+
+
+
+
+
+
+
+<img width="1068" height="579" alt="WK2REGION PROFIT" src="https://github.com/user-attachments/assets/bcd314c2-6a74-442f-8cd9-73eeb1ea5126" />
+
+#BARCHART!
 
 
 ## Dashboard Features
